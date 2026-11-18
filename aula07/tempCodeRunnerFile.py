@@ -1,0 +1,1 @@
+resposta = input('\nQuer continuar: [S/N]').upper()
